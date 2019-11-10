@@ -3,7 +3,6 @@ Open-source software for distributed computing
 
 ## See also
 - [hive][1]
-- [drill][2]
 
 ## Links
 - https://hadoop.apache.org/
