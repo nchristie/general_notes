@@ -1,5 +1,8 @@
 ## What is Hadoop?
-Open-source software for reliable, scalable, distributed computing
+Open-source software for distributed computing
+
+## See also
+- [hive][1]
 
 ## Links
 - https://hadoop.apache.org/
@@ -7,3 +10,6 @@ Open-source software for reliable, scalable, distributed computing
 
 ## Tutorials
 - https://www.tutorialspoint.com/hadoop/index.htm
+
+<!-- Embedded links -->
+[1]: https://github.com/nchristie/general_notes/blob/master/hive.md
