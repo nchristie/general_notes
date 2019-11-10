@@ -9,4 +9,4 @@
 - https://aws.amazon.com/getting-started/tutorials/
 
 <!-- Embedded links -->
-[1]: [https://github.com/nchristie/general_notes/blob/master/cloud_computing.md]
+[1]: https://github.com/nchristie/general_notes/blob/master/cloud_computing.md
