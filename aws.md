@@ -1,5 +1,5 @@
 ## Whas is AWS?
-Provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis
+**A**mazon **W**eb **S**ervices Provides on-demand [cloud computing][1] platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis
 
 ## Links
 - https://aws.amazon.com/
@@ -7,3 +7,6 @@ Provides on-demand cloud computing platforms and APIs to individuals, companies,
 
 ## Tutorials
 - https://aws.amazon.com/getting-started/tutorials/
+
+<!-- Embedded links -->
+[1]: [https://github.com/nchristie/general_notes/blob/master/cloud_computing.md]
