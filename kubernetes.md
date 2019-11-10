@@ -1,5 +1,5 @@
 ## What is Kubernetes?
-Open-source container-orchestration system for automating application deployment, scaling, and management
+Open-source container-orchestration system for automating application deployment, scaling, and management. The abstractions in Kubernetes allow you to deploy containerized applications to a cluster without tying them specifically to individual machines.
 
 ## Links
 - https://en.wikipedia.org/wiki/Kubernetes
