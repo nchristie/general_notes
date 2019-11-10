@@ -7,3 +7,4 @@ Open-source container-orchestration system for automating application deployment
 
 ## Tutorials
 - https://kubernetes.io/docs/tutorials/kubernetes-basics/
+- https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-interactive/
