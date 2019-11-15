@@ -1,6 +1,8 @@
-## What is ...?
+## What are Relational Databases?
 
 ## Links
+- https://en.wikipedia.org/wiki/Relational_database
+
 
 ## Tutorials
 
