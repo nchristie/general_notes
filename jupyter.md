@@ -7,4 +7,4 @@ Jupyter notebooks are a means to code principally [Python][1] via a web browser 
 ## Tutorials
 
 <!-- Embedded links -->
-[1]: https://github.com/nchristie/general_notes/blob/master/python.md
+[1]: https://github.com/nchristie/tech_notes/blob/master/python.md

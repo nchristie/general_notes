@@ -12,4 +12,4 @@ Open-source software for distributed computing
 - https://www.tutorialspoint.com/hadoop/index.htm
 
 <!-- Embedded links -->
-[1]: https://github.com/nchristie/general_notes/blob/master/hive.md
+[1]: https://github.com/nchristie/tech_notes/blob/master/hive.md

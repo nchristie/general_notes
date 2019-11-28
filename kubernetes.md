@@ -10,7 +10,7 @@ Open-source container-orchestration system for automating application deployment
 - https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-interactive/
 
 ## See also
-- https://github.com/nchristie/general_notes/blob/master/minikube.md
+- https://github.com/nchristie/tech_notes/blob/master/minikube.md
 
 <!-- Embedded links -->
-[1]: https://github.com/nchristie/general_notes/blob/master/containers.md
+[1]: https://github.com/nchristie/tech_notes/blob/master/containers.md

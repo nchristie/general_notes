@@ -9,4 +9,4 @@ Docker allows the user to run [containers][1].
 - https://docs.docker.com/get-started/
 
 <!-- Embedded links -->
-[1]: https://github.com/nchristie/general_notes/blob/master/containers.md
+[1]: https://github.com/nchristie/tech_notes/blob/master/containers.md

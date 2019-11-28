@@ -7,4 +7,4 @@ Situation where behavior is dependent on the sequence or timing of other uncontr
 ## Tutorials
 
 <!-- Embedded links -->
-<!-- [1]: https://github.com/nchristie/general_notes/blob/master/XXX.md -->
+<!-- [1]: https://github.com/nchristie/tech_notes/blob/master/XXX.md -->

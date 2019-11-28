@@ -7,4 +7,4 @@ Suite of plugins which supports implementing and integrating continuous delivery
 ## Tutorials -->
 
 <!-- Embedded links -->
-[1]: https://github.com/nchristie/general_notes/blob/master/jenkins.md
+[1]: https://github.com/nchristie/tech_notes/blob/master/jenkins.md

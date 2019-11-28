@@ -1,7 +1,7 @@
-# **docker-compose**
+## What is docker-compose?
+A means to run many [docker][1] [containers][2] together
 
-## **Troubleshooting**
-
+## Troubleshooting
 - ERROR: Error processing tar file(exit status 1): write /.git/objects/pack/pack-59ea22bae7f53ca1701b6faa501d109a3c55664f.pack: no space left on device
     - If you don't have containers you need to save run: `docker system prune`
 - I want to run individual tests rather than all of them at the same time
@@ -12,3 +12,7 @@
         - add `tests/unit/<test file>.py` for individual file
         - add `tests/unit/<test file>.py::<test name>` for individual test
         - add `-vv` for verbose (the more Vs the more verbose)
+
+<!-- Embedded links -->
+[1]: https://github.com/nchristie/tech_notes/blob/master/docker.md
+[2]: https://github.com/nchristie/tech_notes/blob/master/containers.md

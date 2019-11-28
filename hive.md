@@ -6,4 +6,4 @@ Data warehouse software project built on top of Apache [Hadoop][1] for providing
 ## Tutorials
 
 <!-- Embedded links -->
-[1]: https://github.com/nchristie/general_notes/blob/master/hadoop.md
+[1]: https://github.com/nchristie/tech_notes/blob/master/hadoop.md

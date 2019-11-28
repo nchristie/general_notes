@@ -9,4 +9,4 @@ Containers are a means to virtualise a computer. They look like real computers f
 - https://opensource.com/resources/what-docker
 
 <!-- Embedded links -->
-[1]: https://github.com/nchristie/general_notes/blob/master/docker.md
+[1]: https://github.com/nchristie/tech_notes/blob/master/docker.md
