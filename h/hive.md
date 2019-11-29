@@ -1,9 +1,8 @@
 ## What is Hive?
-Data warehouse software project built on top of Apache [Hadoop][1] for providing data query and analysis
+Data warehouse software project built on top of Apache [Hadoop][hadoop] for providing data query and analysis
 
 ## Links
-
-## Tutorials
+- https://en.wikipedia.org/wiki/Apache_Hive
 
 <!-- Embedded links -->
-[1]: https://github.com/nchristie/tech_notes/blob/master/h/hadoop.md
+[hadoop]: https://github.com/nchristie/tech_notes/blob/master/h/hadoop.md
