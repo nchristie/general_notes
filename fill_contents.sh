@@ -2,6 +2,10 @@
 mdstring=".md"
 emptystring=""
 
+sed -i.bak '/# Contents/, $d' README.md
+
+echo -e "# Contents" >> README.md
+
 for x in {a..z}
     do
         echo "" >> README.md
@@ -25,3 +29,6 @@ for x in {a..z}
                 echo "[${myfilename}]: https://github.com/nchristie/tech_notes/blob/master/${filename}" >> README.md
             done
     done
+
+sed -i.bak '/[*]/d' README.md
+rm *.md.bak
