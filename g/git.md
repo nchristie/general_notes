@@ -6,4 +6,4 @@ Git is a [version-control][version_control] system for tracking changes in files
 - https://github.com/
 
 <!-- Embedded links -->
-[version_control]: https://github.com/nchristie/tech_notes/blob/master/version_control.md
+[version_control]: https://github.com/nchristie/tech_notes/blob/master/v/version_control.md

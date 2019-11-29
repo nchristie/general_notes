@@ -5,4 +5,4 @@ A set of established rules that dictate how to format, transmit and receive data
 - https://searchnetworking.techtarget.com/definition/protocol
 
 <!-- Embedded links -->
-[1]: https://github.com/nchristie/tech_notes/blob/master/XXX.md
+[1]: https://github.com/nchristie/tech_notes/blob/master/x/xxx.md

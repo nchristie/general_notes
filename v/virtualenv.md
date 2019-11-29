@@ -14,4 +14,4 @@ virtualenv is a tool to create isolated [Python][1] work spaces. It allows you t
 | 3     | deactivate              | deactivate env                              |
 
 <!-- Embedded links -->
-[1]: https://github.com/nchristie/tech_notes/blob/master/python.md
+[1]: https://github.com/nchristie/tech_notes/blob/master/p/python.md

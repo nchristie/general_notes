@@ -5,4 +5,4 @@ A device which takes in multiple signals and outputs a single signal
 - https://en.wikiversity.org/wiki/Multiplexor
 
 <!-- Embedded links -->
-[1]: https://github.com/nchristie/tech_notes/blob/master/XXX.md
+[1]: https://github.com/nchristie/tech_notes/blob/master/x/xxx.md

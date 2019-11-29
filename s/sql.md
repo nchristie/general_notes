@@ -6,4 +6,4 @@ Database querying language
 ## Tutorials
 
 <!-- Embedded links -->
-<!-- [1]: https://github.com/nchristie/tech_notes/blob/master/XXX.md -->
+<!-- [1]: https://github.com/nchristie/tech_notes/blob/master/x/xxx.md -->

@@ -5,4 +5,4 @@ The term is generally used to describe data centers available to many users over
 - https://en.wikipedia.org/wiki/Cloud_computing
 
 <!-- Embedded links -->
-[1]: https://github.com/nchristie/tech_notes/blob/master/aws.md
+[1]: https://github.com/nchristie/tech_notes/blob/master/a/aws.md

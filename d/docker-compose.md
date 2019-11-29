@@ -14,5 +14,5 @@ A means to run many [docker][1] [containers][2] together
         - add `-vv` for verbose (the more Vs the more verbose)
 
 <!-- Embedded links -->
-[1]: https://github.com/nchristie/tech_notes/blob/master/docker.md
-[2]: https://github.com/nchristie/tech_notes/blob/master/containers.md
+[1]: https://github.com/nchristie/tech_notes/blob/master/d/docker.md
+[2]: https://github.com/nchristie/tech_notes/blob/master/c/containers.md

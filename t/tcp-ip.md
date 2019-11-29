@@ -7,4 +7,4 @@ Transmission Control Protocol/Internet Protocol is a suite of communication [pro
 ## Tutorials
 
 <!-- Embedded links -->
-[network_protocol]: https://github.com/nchristie/tech_notes/blob/master/network_protocol.md
+[network_protocol]: https://github.com/nchristie/tech_notes/blob/master/n/network_protocol.md

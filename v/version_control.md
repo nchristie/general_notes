@@ -9,4 +9,4 @@ Management of changes to files by tracking using things like version numbers and
 - https://en.wikipedia.org/wiki/Version_control
 
 <!-- Embedded links -->
-[git]: https://github.com/nchristie/tech_notes/blob/master/git.md
+[git]: https://github.com/nchristie/tech_notes/blob/master/g/git.md
