@@ -32,6 +32,8 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 - [drill][drill]
 
 ## e
+- [ec2][ec2]
+- [elastic_bean_stalk][elastic_bean_stalk]
 - [elastic_search][elastic_search]
 
 ## f
@@ -44,6 +46,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 
 ## h
 - [hadoop][hadoop]
+- [hashicorp][hashicorp]
 - [hdfs][hdfs]
 - [hive][hive]
 
@@ -87,10 +90,12 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 - [relational_database][relational_database]
 
 ## s
+- [s3][s3]
 - [sql][sql]
 
 ## t
 - [tcp-ip][tcp-ip]
+- [terraform][terraform]
 - [thoughtworks_tech_radar][thoughtworks_tech_radar]
 
 ## u
@@ -117,12 +122,15 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [docker-images]: https://github.com/nchristie/tech_notes/blob/master/d/docker-images.md
 [docker]: https://github.com/nchristie/tech_notes/blob/master/d/docker.md
 [drill]: https://github.com/nchristie/tech_notes/blob/master/d/drill.md
+[ec2]: https://github.com/nchristie/tech_notes/blob/master/e/ec2.md
+[elastic_bean_stalk]: https://github.com/nchristie/tech_notes/blob/master/e/elastic_bean_stalk.md
 [elastic_search]: https://github.com/nchristie/tech_notes/blob/master/e/elastic_search.md
 [git]: https://github.com/nchristie/tech_notes/blob/master/g/git.md
 [git_submodules]: https://github.com/nchristie/tech_notes/blob/master/g/git_submodules.md
 [grafana]: https://github.com/nchristie/tech_notes/blob/master/g/grafana.md
 [graph_database]: https://github.com/nchristie/tech_notes/blob/master/g/graph_database.md
 [hadoop]: https://github.com/nchristie/tech_notes/blob/master/h/hadoop.md
+[hashicorp]: https://github.com/nchristie/tech_notes/blob/master/h/hashicorp.md
 [hdfs]: https://github.com/nchristie/tech_notes/blob/master/h/hdfs.md
 [hive]: https://github.com/nchristie/tech_notes/blob/master/h/hive.md
 [instrumentation]: https://github.com/nchristie/tech_notes/blob/master/i/instrumentation.md
@@ -144,8 +152,10 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [race_condition]: https://github.com/nchristie/tech_notes/blob/master/r/race_condition.md
 [raspberrypi]: https://github.com/nchristie/tech_notes/blob/master/r/raspberrypi.md
 [relational_database]: https://github.com/nchristie/tech_notes/blob/master/r/relational_database.md
+[s3]: https://github.com/nchristie/tech_notes/blob/master/s/s3.md
 [sql]: https://github.com/nchristie/tech_notes/blob/master/s/sql.md
 [tcp-ip]: https://github.com/nchristie/tech_notes/blob/master/t/tcp-ip.md
+[terraform]: https://github.com/nchristie/tech_notes/blob/master/t/terraform.md
 [thoughtworks_tech_radar]: https://github.com/nchristie/tech_notes/blob/master/t/thoughtworks_tech_radar.md
 [version_control]: https://github.com/nchristie/tech_notes/blob/master/v/version_control.md
 [virtualenv]: https://github.com/nchristie/tech_notes/blob/master/v/virtualenv.md
