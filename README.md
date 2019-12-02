@@ -14,16 +14,19 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 # Contents
 
 ## a
+- [agile][agile]
 - [amundsen][amundsen]
 - [apache][apache]
 - [aws][aws]
 
 ## b
+- [bdd][bdd]
 - [binder][binder]
 
 ## c
 - [cloud_computing][cloud_computing]
 - [containers][containers]
+- [cucumber][cucumber]
 
 ## d
 - [docker-compose][docker-compose]
@@ -39,6 +42,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 ## f
 
 ## g
+- [gherkin][gherkin]
 - [git][git]
 - [git_submodules][git_submodules]
 - [grafana][grafana]
@@ -95,6 +99,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 
 ## t
 - [tcp-ip][tcp-ip]
+- [tdd][tdd]
 - [terraform][terraform]
 - [thoughtworks_tech_radar][thoughtworks_tech_radar]
 
@@ -112,12 +117,15 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 
 ## z
 
+[agile]: https://github.com/nchristie/tech_notes/blob/master/a/agile.md
 [amundsen]: https://github.com/nchristie/tech_notes/blob/master/a/amundsen.md
 [apache]: https://github.com/nchristie/tech_notes/blob/master/a/apache.md
 [aws]: https://github.com/nchristie/tech_notes/blob/master/a/aws.md
+[bdd]: https://github.com/nchristie/tech_notes/blob/master/b/bdd.md
 [binder]: https://github.com/nchristie/tech_notes/blob/master/b/binder.md
 [cloud_computing]: https://github.com/nchristie/tech_notes/blob/master/c/cloud_computing.md
 [containers]: https://github.com/nchristie/tech_notes/blob/master/c/containers.md
+[cucumber]: https://github.com/nchristie/tech_notes/blob/master/c/cucumber.md
 [docker-compose]: https://github.com/nchristie/tech_notes/blob/master/d/docker-compose.md
 [docker-images]: https://github.com/nchristie/tech_notes/blob/master/d/docker-images.md
 [docker]: https://github.com/nchristie/tech_notes/blob/master/d/docker.md
@@ -125,6 +133,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [ec2]: https://github.com/nchristie/tech_notes/blob/master/e/ec2.md
 [elastic_bean_stalk]: https://github.com/nchristie/tech_notes/blob/master/e/elastic_bean_stalk.md
 [elastic_search]: https://github.com/nchristie/tech_notes/blob/master/e/elastic_search.md
+[gherkin]: https://github.com/nchristie/tech_notes/blob/master/g/gherkin.md
 [git]: https://github.com/nchristie/tech_notes/blob/master/g/git.md
 [git_submodules]: https://github.com/nchristie/tech_notes/blob/master/g/git_submodules.md
 [grafana]: https://github.com/nchristie/tech_notes/blob/master/g/grafana.md
@@ -155,6 +164,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [s3]: https://github.com/nchristie/tech_notes/blob/master/s/s3.md
 [sql]: https://github.com/nchristie/tech_notes/blob/master/s/sql.md
 [tcp-ip]: https://github.com/nchristie/tech_notes/blob/master/t/tcp-ip.md
+[tdd]: https://github.com/nchristie/tech_notes/blob/master/t/tdd.md
 [terraform]: https://github.com/nchristie/tech_notes/blob/master/t/terraform.md
 [thoughtworks_tech_radar]: https://github.com/nchristie/tech_notes/blob/master/t/thoughtworks_tech_radar.md
 [version_control]: https://github.com/nchristie/tech_notes/blob/master/v/version_control.md

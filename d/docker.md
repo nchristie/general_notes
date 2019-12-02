@@ -9,5 +9,12 @@ Docker allows the user to run [containers][1].
 ## Tutorials
 - https://docs.docker.com/get-started/
 
+## Commands
+| command                           | what it does                                                       |
+| --------------------------------- | ------------------------------------------------------------------ |
+| `docker build -t <mytag> .`       | build a docker container and tag it with whichever name you'd like |
+| `docker run mytag -it mytag bash` | open a bash window on your docker container                        |
+| `docker run mytag`                | run the container based on your tag                                |
+
 <!-- Embedded links -->
 [1]: https://github.com/nchristie/tech_notes/blob/master/c/containers.md
