@@ -73,6 +73,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 ## m
 - [minikube][minikube]
 - [multiplexor][multiplexor]
+- [python_mock][python_mock]
 
 ## n
 - [neo4j][neo4j]
@@ -84,6 +85,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 ## p
 - [pandas][pandas]
 - [postgres][postgres]
+- [pytest][pytest]
 - [python][python]
 
 ## q
@@ -152,11 +154,13 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [linux]: https://github.com/nchristie/tech_notes/blob/master/l/linux.md
 [minikube]: https://github.com/nchristie/tech_notes/blob/master/m/minikube.md
 [multiplexor]: https://github.com/nchristie/tech_notes/blob/master/m/multiplexor.md
+[python_mock]: https://github.com/nchristie/tech_notes/blob/master/m/python_mock.md
 [neo4j]: https://github.com/nchristie/tech_notes/blob/master/n/neo4j.md
 [network_protocol]: https://github.com/nchristie/tech_notes/blob/master/n/network_protocol.md
 [nifi]: https://github.com/nchristie/tech_notes/blob/master/n/nifi.md
 [pandas]: https://github.com/nchristie/tech_notes/blob/master/p/pandas.md
 [postgres]: https://github.com/nchristie/tech_notes/blob/master/p/postgres.md
+[pytest]: https://github.com/nchristie/tech_notes/blob/master/p/pytest.md
 [python]: https://github.com/nchristie/tech_notes/blob/master/p/python.md
 [race_condition]: https://github.com/nchristie/tech_notes/blob/master/r/race_condition.md
 [raspberrypi]: https://github.com/nchristie/tech_notes/blob/master/r/raspberrypi.md
