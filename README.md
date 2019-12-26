@@ -72,6 +72,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 - [linux][linux]
 
 ## m
+- [mapreduce][mapreduce]
 - [minikube][minikube]
 - [multiplexor][multiplexor]
 
@@ -117,6 +118,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 ## x
 
 ## y
+- [yarn][yarn]
 
 ## z
 
@@ -154,6 +156,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [keytab]: https://github.com/nchristie/tech_notes/blob/master/k/keytab.md
 [kubernetes]: https://github.com/nchristie/tech_notes/blob/master/k/kubernetes.md
 [linux]: https://github.com/nchristie/tech_notes/blob/master/l/linux.md
+[mapreduce]: https://github.com/nchristie/tech_notes/blob/master/m/mapreduce.md
 [minikube]: https://github.com/nchristie/tech_notes/blob/master/m/minikube.md
 [multiplexor]: https://github.com/nchristie/tech_notes/blob/master/m/multiplexor.md
 [neo4j]: https://github.com/nchristie/tech_notes/blob/master/n/neo4j.md
@@ -175,3 +178,4 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [thoughtworks_tech_radar]: https://github.com/nchristie/tech_notes/blob/master/t/thoughtworks_tech_radar.md
 [version_control]: https://github.com/nchristie/tech_notes/blob/master/v/version_control.md
 [virtualenv]: https://github.com/nchristie/tech_notes/blob/master/v/virtualenv.md
+[yarn]: https://github.com/nchristie/tech_notes/blob/master/y/yarn.md
