@@ -17,6 +17,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 - [agile][agile]
 - [amundsen][amundsen]
 - [apache][apache]
+- [awk][awk]
 - [aws][aws]
 
 ## b
@@ -73,7 +74,6 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 ## m
 - [minikube][minikube]
 - [multiplexor][multiplexor]
-- [python_mock][python_mock]
 
 ## n
 - [neo4j][neo4j]
@@ -87,6 +87,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 - [postgres][postgres]
 - [pytest][pytest]
 - [python][python]
+- [python_mock][python_mock]
 
 ## q
 
@@ -122,6 +123,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [agile]: https://github.com/nchristie/tech_notes/blob/master/a/agile.md
 [amundsen]: https://github.com/nchristie/tech_notes/blob/master/a/amundsen.md
 [apache]: https://github.com/nchristie/tech_notes/blob/master/a/apache.md
+[awk]: https://github.com/nchristie/tech_notes/blob/master/a/awk.md
 [aws]: https://github.com/nchristie/tech_notes/blob/master/a/aws.md
 [bdd]: https://github.com/nchristie/tech_notes/blob/master/b/bdd.md
 [binder]: https://github.com/nchristie/tech_notes/blob/master/b/binder.md
@@ -154,7 +156,6 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [linux]: https://github.com/nchristie/tech_notes/blob/master/l/linux.md
 [minikube]: https://github.com/nchristie/tech_notes/blob/master/m/minikube.md
 [multiplexor]: https://github.com/nchristie/tech_notes/blob/master/m/multiplexor.md
-[python_mock]: https://github.com/nchristie/tech_notes/blob/master/m/python_mock.md
 [neo4j]: https://github.com/nchristie/tech_notes/blob/master/n/neo4j.md
 [network_protocol]: https://github.com/nchristie/tech_notes/blob/master/n/network_protocol.md
 [nifi]: https://github.com/nchristie/tech_notes/blob/master/n/nifi.md
@@ -162,6 +163,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [postgres]: https://github.com/nchristie/tech_notes/blob/master/p/postgres.md
 [pytest]: https://github.com/nchristie/tech_notes/blob/master/p/pytest.md
 [python]: https://github.com/nchristie/tech_notes/blob/master/p/python.md
+[python_mock]: https://github.com/nchristie/tech_notes/blob/master/p/python_mock.md
 [race_condition]: https://github.com/nchristie/tech_notes/blob/master/r/race_condition.md
 [raspberrypi]: https://github.com/nchristie/tech_notes/blob/master/r/raspberrypi.md
 [relational_database]: https://github.com/nchristie/tech_notes/blob/master/r/relational_database.md
