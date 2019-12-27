@@ -64,6 +64,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 - [jupyter][jupyter]
 
 ## k
+- [kafka][kafka]
 - [kerberos][kerberos]
 - [keytab][keytab]
 - [kubernetes][kubernetes]
@@ -152,6 +153,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [jenkins]: https://github.com/nchristie/tech_notes/blob/master/j/jenkins.md
 [jenkins_pipeline]: https://github.com/nchristie/tech_notes/blob/master/j/jenkins_pipeline.md
 [jupyter]: https://github.com/nchristie/tech_notes/blob/master/j/jupyter.md
+[kafka]: https://github.com/nchristie/tech_notes/blob/master/k/kafka.md
 [kerberos]: https://github.com/nchristie/tech_notes/blob/master/k/kerberos.md
 [keytab]: https://github.com/nchristie/tech_notes/blob/master/k/keytab.md
 [kubernetes]: https://github.com/nchristie/tech_notes/blob/master/k/kubernetes.md
