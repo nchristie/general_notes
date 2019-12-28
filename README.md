@@ -39,6 +39,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 - [ec2][ec2]
 - [elastic_bean_stalk][elastic_bean_stalk]
 - [elastic_search][elastic_search]
+- [environment_variable][environment_variable]
 
 ## f
 
@@ -140,6 +141,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [ec2]: https://github.com/nchristie/tech_notes/blob/master/e/ec2.md
 [elastic_bean_stalk]: https://github.com/nchristie/tech_notes/blob/master/e/elastic_bean_stalk.md
 [elastic_search]: https://github.com/nchristie/tech_notes/blob/master/e/elastic_search.md
+[environment_variable]: https://github.com/nchristie/tech_notes/blob/master/e/environment_variable.md
 [gherkin]: https://github.com/nchristie/tech_notes/blob/master/g/gherkin.md
 [git]: https://github.com/nchristie/tech_notes/blob/master/g/git.md
 [git_submodules]: https://github.com/nchristie/tech_notes/blob/master/g/git_submodules.md
