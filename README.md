@@ -88,6 +88,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 ## p
 - [pandas][pandas]
 - [postgres][postgres]
+- [pyhive][pyhive]
 - [pytest][pytest]
 - [python][python]
 - [python_mock][python_mock]
@@ -104,6 +105,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 - [sql][sql]
 
 ## t
+- [tarball][tarball]
 - [tcp-ip][tcp-ip]
 - [tdd][tdd]
 - [terraform][terraform]
@@ -168,6 +170,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [nifi]: https://github.com/nchristie/tech_notes/blob/master/n/nifi.md
 [pandas]: https://github.com/nchristie/tech_notes/blob/master/p/pandas.md
 [postgres]: https://github.com/nchristie/tech_notes/blob/master/p/postgres.md
+[pyhive]: https://github.com/nchristie/tech_notes/blob/master/p/pyhive.md
 [pytest]: https://github.com/nchristie/tech_notes/blob/master/p/pytest.md
 [python]: https://github.com/nchristie/tech_notes/blob/master/p/python.md
 [python_mock]: https://github.com/nchristie/tech_notes/blob/master/p/python_mock.md
@@ -176,6 +179,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [relational_database]: https://github.com/nchristie/tech_notes/blob/master/r/relational_database.md
 [s3]: https://github.com/nchristie/tech_notes/blob/master/s/s3.md
 [sql]: https://github.com/nchristie/tech_notes/blob/master/s/sql.md
+[tarball]: https://github.com/nchristie/tech_notes/blob/master/t/tarball.md
 [tcp-ip]: https://github.com/nchristie/tech_notes/blob/master/t/tcp-ip.md
 [tdd]: https://github.com/nchristie/tech_notes/blob/master/t/tdd.md
 [terraform]: https://github.com/nchristie/tech_notes/blob/master/t/terraform.md
