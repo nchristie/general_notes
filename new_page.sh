@@ -1,5 +1,13 @@
 #!/bin/bash
 
-template="## What is ...?\n\n## Links\n\n## Tutorials\n\n<!-- Embedded links -->\n[1]: https://github.com/nchristie/tech_notes/blob/master/x/xxx.md\n"
+word=$1
 
-echo -e $template
+tc() { set ${*,,} ; echo ${*^} ; }
+
+tcword=${word^}
+
+template="## What is $tcword?\n\n## Links\n\n## Tutorials\n\n<!-- Embedded links -->\n[1]: https://github.com/nchristie/tech_notes/blob/master/x/xxx.md\n" 
+
+folder=${word:0:1}
+
+echo -e $template >> $folder/$1.md
