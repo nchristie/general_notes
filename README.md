@@ -26,6 +26,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 
 ## c
 - [cloud_computing][cloud_computing]
+- [computer_vision][computer_vision]
 - [containers][containers]
 - [cucumber][cucumber]
 
@@ -84,8 +85,10 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 - [nifi][nifi]
 
 ## o
+- [opencv][opencv]
 
 ## p
+- [package_manager][package_manager]
 - [pandas][pandas]
 - [postgres][postgres]
 - [pyhive][pyhive]
@@ -96,9 +99,12 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 ## q
 
 ## r
+- [rabbitmq][rabbitmq]
 - [race_condition][race_condition]
 - [raspberrypi][raspberrypi]
+- [redis][redis]
 - [relational_database][relational_database]
+- [repl][repl]
 
 ## s
 - [s3][s3]
@@ -134,6 +140,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [bdd]: https://github.com/nchristie/tech_notes/blob/master/b/bdd.md
 [binder]: https://github.com/nchristie/tech_notes/blob/master/b/binder.md
 [cloud_computing]: https://github.com/nchristie/tech_notes/blob/master/c/cloud_computing.md
+[computer_vision]: https://github.com/nchristie/tech_notes/blob/master/c/computer_vision.md
 [containers]: https://github.com/nchristie/tech_notes/blob/master/c/containers.md
 [cucumber]: https://github.com/nchristie/tech_notes/blob/master/c/cucumber.md
 [docker-compose]: https://github.com/nchristie/tech_notes/blob/master/d/docker-compose.md
@@ -168,15 +175,20 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [neo4j]: https://github.com/nchristie/tech_notes/blob/master/n/neo4j.md
 [network_protocol]: https://github.com/nchristie/tech_notes/blob/master/n/network_protocol.md
 [nifi]: https://github.com/nchristie/tech_notes/blob/master/n/nifi.md
+[opencv]: https://github.com/nchristie/tech_notes/blob/master/o/opencv.md
+[package_manager]: https://github.com/nchristie/tech_notes/blob/master/p/package_manager.md
 [pandas]: https://github.com/nchristie/tech_notes/blob/master/p/pandas.md
 [postgres]: https://github.com/nchristie/tech_notes/blob/master/p/postgres.md
 [pyhive]: https://github.com/nchristie/tech_notes/blob/master/p/pyhive.md
 [pytest]: https://github.com/nchristie/tech_notes/blob/master/p/pytest.md
 [python]: https://github.com/nchristie/tech_notes/blob/master/p/python.md
 [python_mock]: https://github.com/nchristie/tech_notes/blob/master/p/python_mock.md
+[rabbitmq]: https://github.com/nchristie/tech_notes/blob/master/r/rabbitmq.md
 [race_condition]: https://github.com/nchristie/tech_notes/blob/master/r/race_condition.md
 [raspberrypi]: https://github.com/nchristie/tech_notes/blob/master/r/raspberrypi.md
+[redis]: https://github.com/nchristie/tech_notes/blob/master/r/redis.md
 [relational_database]: https://github.com/nchristie/tech_notes/blob/master/r/relational_database.md
+[repl]: https://github.com/nchristie/tech_notes/blob/master/r/repl.md
 [s3]: https://github.com/nchristie/tech_notes/blob/master/s/s3.md
 [sql]: https://github.com/nchristie/tech_notes/blob/master/s/sql.md
 [tarball]: https://github.com/nchristie/tech_notes/blob/master/t/tarball.md
