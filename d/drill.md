@@ -1,5 +1,5 @@
 ## What is Drill?
-Software for querying datastores using sql even if the store isn't a relational database.
+Software for querying datastores using sql[sql] even if the store isn't a relational database.
 
 ## Links
 - https://drill.apache.org/

@@ -1,5 +1,5 @@
 ## What is Git?
-Git is a [version-control][version_control] system for tracking changes in files. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Many files which have version-control using git are stored on GitHub
+Git is a [version-control][version_control] system for tracking changes in files. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Many files which have version-control using git[git] are stored on GitHub
 
 ## Links
 - https://en.wikipedia.org/wiki/Git

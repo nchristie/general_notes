@@ -10,7 +10,7 @@ A failing test should be written first, and then the code is written in order to
 - https://en.wikipedia.org/wiki/Test-driven_development
 
 ## See also
-- [pytest][pytest] - python's testing library
+- [pytest][pytest] - python[python]'s testing library
 
 <!-- Embedded links -->
 [1]: https://github.com/nchristie/tech_notes/blob/master/x/xxx.md

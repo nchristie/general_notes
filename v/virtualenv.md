@@ -1,4 +1,4 @@
-## What is a virtualenv?
+## What is a virtualenv[virtualenv]?
 virtualenv is a tool to create isolated [Python][1] work spaces. It allows you to install the versions of libraries you need for a given project in one space rather than relying on the version installed globally.
 
 ## Links
@@ -9,7 +9,7 @@ virtualenv is a tool to create isolated [Python][1] work spaces. It allows you t
 
 | order | command                 | what it does                                |
 | ----- | ----------------------- | ------------------------------------------- |
-| 1     | python3 -m venv env     | make an env folder in the current directory |
+| 1     | python[python]3 -m venv env     | make an env folder in the current directory |
 | 2     | source env/bin/activate | activate env                                |
 | 3     | deactivate              | deactivate env                              |
 

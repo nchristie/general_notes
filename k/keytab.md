@@ -1,4 +1,4 @@
-## What is a keytab?
+## What is a keytab[keytab]?
 Cryptographic files containing a representation of the service and its long-term password
 
 ## Links

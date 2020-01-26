@@ -1,4 +1,4 @@
-## What is sql?
+## What is sql[sql]?
 Database querying language
 
 ## Links
