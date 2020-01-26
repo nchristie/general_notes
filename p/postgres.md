@@ -1,5 +1,8 @@
 ## What is Postgres?
-Relational database management system
+Relational database management system.
+
+##
+- [sql][sql]
 
 ## Links
 - https://en.wikipedia.org/wiki/PostgreSQL
@@ -9,4 +12,4 @@ Relational database management system
 
 
 <!-- Embedded links -->
-<!-- [1]: https://github.com/nchristie/tech_notes/blob/master/x/xxx.md -->
+[sql]: https://github.com/nchristie/tech_notes/blob/master/s/sql.md
