@@ -23,8 +23,10 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 ## b
 - [bdd][bdd]
 - [binder][binder]
+- [bugs][bugs]
 
 ## c
+- [cisco][cisco]
 - [cloud_computing][cloud_computing]
 - [computer_vision][computer_vision]
 - [containers][containers]
@@ -86,11 +88,13 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 
 ## o
 - [opencv][opencv]
+- [osi][osi]
 
 ## p
 - [package_manager][package_manager]
 - [pandas][pandas]
 - [postgres][postgres]
+- [presto][presto]
 - [pyhive][pyhive]
 - [pytest][pytest]
 - [python][python]
@@ -139,6 +143,8 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [aws]: https://github.com/nchristie/tech_notes/blob/master/a/aws.md
 [bdd]: https://github.com/nchristie/tech_notes/blob/master/b/bdd.md
 [binder]: https://github.com/nchristie/tech_notes/blob/master/b/binder.md
+[bugs]: https://github.com/nchristie/tech_notes/blob/master/b/bugs.md
+[cisco]: https://github.com/nchristie/tech_notes/blob/master/c/cisco.md
 [cloud_computing]: https://github.com/nchristie/tech_notes/blob/master/c/cloud_computing.md
 [computer_vision]: https://github.com/nchristie/tech_notes/blob/master/c/computer_vision.md
 [containers]: https://github.com/nchristie/tech_notes/blob/master/c/containers.md
@@ -176,9 +182,11 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [network_protocol]: https://github.com/nchristie/tech_notes/blob/master/n/network_protocol.md
 [nifi]: https://github.com/nchristie/tech_notes/blob/master/n/nifi.md
 [opencv]: https://github.com/nchristie/tech_notes/blob/master/o/opencv.md
+[osi]: https://github.com/nchristie/tech_notes/blob/master/o/osi.md
 [package_manager]: https://github.com/nchristie/tech_notes/blob/master/p/package_manager.md
 [pandas]: https://github.com/nchristie/tech_notes/blob/master/p/pandas.md
 [postgres]: https://github.com/nchristie/tech_notes/blob/master/p/postgres.md
+[presto]: https://github.com/nchristie/tech_notes/blob/master/p/presto.md
 [pyhive]: https://github.com/nchristie/tech_notes/blob/master/p/pyhive.md
 [pytest]: https://github.com/nchristie/tech_notes/blob/master/p/pytest.md
 [python]: https://github.com/nchristie/tech_notes/blob/master/p/python.md
