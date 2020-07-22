@@ -12,7 +12,10 @@ A means to run many [docker][1] [containers][2] together
         - add `tests/unit/<test file>.py` for individual file
         - add `tests/unit/<test file>.py::<test name>` for individual test
         - add `-vv` for verbose (the more Vs the more verbose)
+        - see [pytest][pytest] notes for how to run tests
+
 
 <!-- Embedded links -->
 [1]: https://github.com/nchristie/tech_notes/blob/master/d/docker.md
 [2]: https://github.com/nchristie/tech_notes/blob/master/c/containers.md
+[pytest]: https://github.com/nchristie/tech_notes/blob/master/p/pytest.md

@@ -27,6 +27,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 
 ## c
 - [cisco][cisco]
+- [ci][ci]
 - [cloud_computing][cloud_computing]
 - [computer_vision][computer_vision]
 - [containers][containers]
@@ -112,6 +113,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 
 ## s
 - [s3][s3]
+- [sed][sed]
 - [sql][sql]
 
 ## t
@@ -145,6 +147,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [binder]: https://github.com/nchristie/tech_notes/blob/master/b/binder.md
 [bugs]: https://github.com/nchristie/tech_notes/blob/master/b/bugs.md
 [cisco]: https://github.com/nchristie/tech_notes/blob/master/c/cisco.md
+[ci]: https://github.com/nchristie/tech_notes/blob/master/c/ci.md
 [cloud_computing]: https://github.com/nchristie/tech_notes/blob/master/c/cloud_computing.md
 [computer_vision]: https://github.com/nchristie/tech_notes/blob/master/c/computer_vision.md
 [containers]: https://github.com/nchristie/tech_notes/blob/master/c/containers.md
@@ -198,6 +201,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [relational_database]: https://github.com/nchristie/tech_notes/blob/master/r/relational_database.md
 [repl]: https://github.com/nchristie/tech_notes/blob/master/r/repl.md
 [s3]: https://github.com/nchristie/tech_notes/blob/master/s/s3.md
+[sed]: https://github.com/nchristie/tech_notes/blob/master/s/sed.md
 [sql]: https://github.com/nchristie/tech_notes/blob/master/s/sql.md
 [tarball]: https://github.com/nchristie/tech_notes/blob/master/t/tarball.md
 [tcp-ip]: https://github.com/nchristie/tech_notes/blob/master/t/tcp-ip.md
