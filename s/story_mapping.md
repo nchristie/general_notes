@@ -1,8 +1,7 @@
-## What is Kafka?
-System for handling real time data feeds.
+./new_page.sh
+## What is Story Mapping?
 
 ## Links
-- https://en.m.wikipedia.org/wiki/Apache_Kafka
 
 ## Tutorials
 
