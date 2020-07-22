@@ -21,13 +21,14 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 - [aws][aws]
 
 ## b
+- [backlog][backlog]
 - [bdd][bdd]
 - [binder][binder]
 - [bugs][bugs]
 
 ## c
-- [cisco][cisco]
 - [ci][ci]
+- [cisco][cisco]
 - [cloud_computing][cloud_computing]
 - [computer_vision][computer_vision]
 - [containers][containers]
@@ -94,6 +95,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 ## p
 - [package_manager][package_manager]
 - [pandas][pandas]
+- [polymorphism][polymorphism]
 - [postgres][postgres]
 - [presto][presto]
 - [pyhive][pyhive]
@@ -115,6 +117,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 - [s3][s3]
 - [sed][sed]
 - [sql][sql]
+- [story_mapping][story_mapping]
 
 ## t
 - [tarball][tarball]
@@ -143,11 +146,12 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [apache]: https://github.com/nchristie/tech_notes/blob/master/a/apache.md
 [awk]: https://github.com/nchristie/tech_notes/blob/master/a/awk.md
 [aws]: https://github.com/nchristie/tech_notes/blob/master/a/aws.md
+[backlog]: https://github.com/nchristie/tech_notes/blob/master/b/backlog.md
 [bdd]: https://github.com/nchristie/tech_notes/blob/master/b/bdd.md
 [binder]: https://github.com/nchristie/tech_notes/blob/master/b/binder.md
 [bugs]: https://github.com/nchristie/tech_notes/blob/master/b/bugs.md
-[cisco]: https://github.com/nchristie/tech_notes/blob/master/c/cisco.md
 [ci]: https://github.com/nchristie/tech_notes/blob/master/c/ci.md
+[cisco]: https://github.com/nchristie/tech_notes/blob/master/c/cisco.md
 [cloud_computing]: https://github.com/nchristie/tech_notes/blob/master/c/cloud_computing.md
 [computer_vision]: https://github.com/nchristie/tech_notes/blob/master/c/computer_vision.md
 [containers]: https://github.com/nchristie/tech_notes/blob/master/c/containers.md
@@ -188,6 +192,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [osi]: https://github.com/nchristie/tech_notes/blob/master/o/osi.md
 [package_manager]: https://github.com/nchristie/tech_notes/blob/master/p/package_manager.md
 [pandas]: https://github.com/nchristie/tech_notes/blob/master/p/pandas.md
+[polymorphism]: https://github.com/nchristie/tech_notes/blob/master/p/polymorphism.md
 [postgres]: https://github.com/nchristie/tech_notes/blob/master/p/postgres.md
 [presto]: https://github.com/nchristie/tech_notes/blob/master/p/presto.md
 [pyhive]: https://github.com/nchristie/tech_notes/blob/master/p/pyhive.md
@@ -203,6 +208,7 @@ This is a repo of notes I'm taking on software, hardware and computer science co
 [s3]: https://github.com/nchristie/tech_notes/blob/master/s/s3.md
 [sed]: https://github.com/nchristie/tech_notes/blob/master/s/sed.md
 [sql]: https://github.com/nchristie/tech_notes/blob/master/s/sql.md
+[story_mapping]: https://github.com/nchristie/tech_notes/blob/master/s/story_mapping.md
 [tarball]: https://github.com/nchristie/tech_notes/blob/master/t/tarball.md
 [tcp-ip]: https://github.com/nchristie/tech_notes/blob/master/t/tcp-ip.md
 [tdd]: https://github.com/nchristie/tech_notes/blob/master/t/tdd.md

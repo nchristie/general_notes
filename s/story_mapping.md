@@ -1,9 +1,11 @@
-./new_page.sh
 ## What is Story Mapping?
+A means of writing a [backlog] of tasks for a software engineering team to do which is understandable from a business/client perspective.
 
 ## Links
+- https://www.jpattonassociates.com/the-new-backlog/
+- https://www.thoughtworks.com/insights/blog/story-mapping-visual-way-building-product-backlog
 
 ## Tutorials
 
 <!-- Embedded links -->
-[1]: https://github.com/nchristie/tech_notes/blob/master/x/xxx.md
+[backlog]: https://github.com/nchristie/tech_notes/blob/master/b/backlog.md
